@@ -1,0 +1,18 @@
+/****** Main Styling ******/
+
+body{
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  color:#393D47;
+  background-color: #ECF0F1;
+}
+
+.container{
+  padding: 0;
+  margin-top: 10vh;
+}
+
+#main{
+  height: 90vh;
+}
+
